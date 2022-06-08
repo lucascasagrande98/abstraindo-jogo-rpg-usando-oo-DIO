@@ -1,0 +1,15 @@
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\bin\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.exe
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\bin\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.deps.json
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\bin\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.runtimeconfig.json
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\bin\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.dll
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\bin\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.pdb
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.csproj.AssemblyReference.cache
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.AssemblyInfoInputs.cache
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.AssemblyInfo.cs
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.csproj.CoreCompileInputs.cache
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.dll
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\refint\Abstrair-jogo-rpg-usando-oo.dll
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.pdb
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\Abstrair-jogo-rpg-usando-oo.genruntimeconfig.cache
+D:\workspace\C#\Abstrair-jogo-rpg-usando-oo\obj\Debug\net6.0\ref\Abstrair-jogo-rpg-usando-oo.dll
